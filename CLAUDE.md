@@ -42,3 +42,12 @@ wie Bio, Custom System Prompts, Plugin-Customizer und mehr. Fork von anthropics/
 |---------|-------|------------|
 | 1.1.0 | 2026-04-06 | Codex-State-Daten dokumentiert, Versionsheader ergaenzt |
 | 1.0.0 | 2026-04-03 | Initiales Release mit ai-knowledge Verweis |
+
+---
+
+## Prompting-Standard (Opus 4.7)
+
+Operative Arbeitsanweisungen fuer Claude Opus 4.7:
+→ `/Users/bernhardkrenn/GitHub/bernhardkrenn-base/CLAUDE_OPUS47_ARBEITSANWEISUNGEN.md`
+
+Gilt fuer: Effort-Level, Prompt-Konstruktion, Output-Format-Defaults, Scope-Regeln.
